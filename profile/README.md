@@ -8,5 +8,5 @@
 
 ## 👪Members
 * 🎓 __Undergraduate__ : Junhao Li, Jiaxi Cao, Fanfan Li.
-* ❤️ __Alumni__ : Beining Xu
+* ❤️ __Alumni__ : Beining Xu (2023).
 
