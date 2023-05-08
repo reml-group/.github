@@ -7,6 +7,6 @@
 **_[2023-05-06]_** REML group`s github homepage is released!
 
 ## Members
-* 🎓__Undergraduate__: Junhao Li, Jiaxi Cao, Fanfan Li.
-* ❤️__Alumni__: Beining Xu
+* 🎓 __Undergraduate__ : Junhao Li, Jiaxi Cao, Fanfan Li.
+* ❤️ __Alumni__ : Beining Xu
 
