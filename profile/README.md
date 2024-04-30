@@ -7,7 +7,8 @@
 **_[2023-05-06]_** REML group`s github homepage is released!
 
 ## 👪 Members
-* 🎓 __Graduate__ : Dechen Kong, Wangchun Sun, Zewei Wang.
-* 🎓 __Undergraduate__ : Zhitao Gao, Boyuan Yao, Wenwen Zhao.
+* 🎓 __Ph.D.__ : Muye Huang.
+* 🎓 __Graduate__ : Chang Xu, Dechen Kong, Wangchun Sun, Zewei Wang.
+* 🎓 __Undergraduate__ : Zhitao Gao, Boyuan Yao.
 * ❤️ __Alumni__ : Beining Xu (2023), Junhao Li (2023), Jiaxi Cao (2023), Fanfan Li (2023).
 
