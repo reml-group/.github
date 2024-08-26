@@ -8,7 +8,7 @@
 
 ## 👪 Members
 * 🎓 __Ph.D.__ : Muye Huang.
-* 🎓 __Graduate__ : Chang Xu, Dechen Kong, Rui Xing, Wangchun Sun, Zewei Wang.
-* 🎓 __Undergraduate__ : Zhitao Gao, Boyuan Yao.
-* ❤️ __Alumni__ : Beining Xu (2023), Junhao Li (2023), Jiaxi Cao (2023), Fanfan Li (2023).
+* 🎓 __Graduate__ : Boyuan Yao, Chang Xu, Dechen Kong, Rui Xing, Wangchun Sun, Zewei Wang.
+* 🎓 __Undergraduate__ : Deyang Bao, Ziang Yin, Zixiang Zuo.
+* ❤️ __Alumni__ : Beining Xu (2023), Junhao Li (2023), Jiaxi Cao (2023), Fanfan Li (2023), Zhitao Gao (2024).
 
