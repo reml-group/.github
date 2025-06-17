@@ -7,8 +7,8 @@
 **_[2023-05-06]_** REML group`s github homepage is released!
 
 ## 👪 Members
-* 🎓 __Ph.D.__ : Qi Chai.
-* 🎓 __Graduate__ :  Chang Xu, Dechen Kong, Haoquan Xue, Ning Qu, Rui Xing, Shihao Qi, Wangchun Sun, Zewei Wang, Zhitao Gao.
-* 🎓 __Undergraduate__ : Deyang Bao, Ziang Yin, Zelin Yu.
-* ❤️ __Alumni__ : Deyang Bao (2025), Zelin Yu (2025), Zixiang Zuo (2025), Boyuan Yao (2023), Beining Xu (2023), Junhao Li (2023), Jiaxi Cao (2023), Fanfan Li (2023).
+* 🎓 __Ph.D.__ : Shihao Qi, Qi Chai.
+* 🎓 __Graduate__ :  Chang Xu, Haoquan Xue, Ning Qu, Rui Xing, Wangchun Sun,  Zhitao Gao.
+* 🎓 __Undergraduate__ : Xinping Wang, Ziang Yin.
+* ❤️ __Alumni__ : Boyuan Yao, Beining Xu, Deyang Bao, Dechen Kong, Fanfan Li, Junhao Li, Jiaxi Cao, Zelin Yu, Zewei Wang, Zixiang Zuo,.
 
